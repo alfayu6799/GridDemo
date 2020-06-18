@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="functions">
+        <item>Patient info</item>
+        <item>Caregivers</item>
+        <item>Physicians</item>
+        <item>Precaution</item>
+        <item>Schedule</item>
+        <item>Medication</item>
+        <item>Pain Level</item>
+        <item>Vital Sign</item>
+        <item>Goals</item>
+<!--        <item>Clear</item>-->
+    </string-array>
+</resources>
